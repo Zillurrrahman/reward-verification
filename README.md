@@ -6,9 +6,9 @@ This repository contains the verification files for each Silencio Raffle Season,
 
 | Silencio Raffle          | Subdirectory |
 |----------------------|-------------|
-| **Beta Airdrop** | `beta-airdrop/` |
-| **Season 1**   | `raffle-season-1/` |
-| **Season 2**   | `raffle-season-2/` |
+| **Beta Airdrop** | d3ab2882efa2b750f1bb637a32eeb7fe07f5972c511e884cbc1dac30d905e835 |
+| **Season 1**   | d3ab2882efa2b750f1bb637a32eeb7fe07f5972c511e884cbc1dac30d905e835 |
+| **Season 2**   | 96af69f0da72f8ff9ab4128a05c13c65dace73384b5561c5be0a0df9aedbdce9 |
 | **Season 3**   | Upcoming May 2025 |
 
 For detailed instructions on running verifications for a specific season, refer to the README within the respective subdirectory.
